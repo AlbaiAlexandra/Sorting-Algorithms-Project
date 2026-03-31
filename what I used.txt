@@ -1,0 +1,5 @@
+I used the command python sorting_experiment.py --sizes-file sizes.txt --out results.csv --max-repeats 10 for:
+10
+100
+500
+1000
