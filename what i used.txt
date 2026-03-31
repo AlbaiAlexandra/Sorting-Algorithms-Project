@@ -1,4 +1,8 @@
-i used the command python sorting_experiment.py --sizes-file sizes.txt --out results.csv --dtypes int --cases random,sorted,reversed --algorithms merge,quick,heap,timsort --max-repeats 3 for:
+I used the command python sorting_experiment.py --sizes-file sizes.txt --out results.csv --max-repeats 10 for:
+20
+30
+50
+100
 1000
 5000
 10000
@@ -6,5 +10,6 @@ i used the command python sorting_experiment.py --sizes-file sizes.txt --out res
 100000
 250000
 500000
-This one took a little bit more time.
-Wrote 84 rows to results.csv
+1000000
+
+I've been waiting for more than an hour. I am stopping now. Didn't work!
